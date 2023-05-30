@@ -1,0 +1,72 @@
+[
+  {
+    "data": "2023-05-23",
+    "ticker": "ABC",
+    "price": 50.25,
+    "change": 0.8,
+    "percent_change": 1.62
+  },
+  {
+    "data": "2023-05-23",
+    "ticker": "DEF",
+    "price": 75.1,
+    "change": -2.3,
+    "percent_change": -2.97
+  },
+  {
+    "data": "2023-05-23",
+    "ticker": "GHI",
+    "price": 120.75,
+    "change": 1.5,
+    "percent_change": 1.26
+  },
+  {
+    "data": "2023-05-23",
+    "ticker": "JKL",
+    "price": 95.6,
+    "change": 0.2,
+    "percent_change": 0.21
+  },
+  {
+    "data": "2023-05-23",
+    "ticker": "MNO",
+    "price": 85.35,
+    "change": -1.1,
+    "percent_change": -1.28
+  },
+  {
+    "data": "2023-05-23",
+    "ticker": "PQR",
+    "price": 110.2,
+    "change": 0.9,
+    "percent_change": 0.82
+  },
+  {
+    "data": "2023-05-23",
+    "ticker": "STU",
+    "price": 65.8,
+    "change": -0.5,
+    "percent_change": -0.75
+  },
+  {
+    "data": "2023-05-23",
+    "ticker": "VWX",
+    "price": 150.5,
+    "change": 2.0,
+    "percent_change": 1.35
+  },
+  {
+    "data": "2023-05-23",
+    "ticker": "YZA",
+    "price": 45.7,
+    "change": 0.4,
+    "percent_change": 0.88
+  },
+  {
+    "data": "2023-05-23",
+    "ticker": "BCD",
+    "price": 80.9,
+    "change": -0.7,
+    "percent_change": -0.86
+  }
+]
