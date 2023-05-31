@@ -43,7 +43,7 @@ func Run(ctx context.Context) {
 	}
 	defer conn.Close()
 
-	ticker := time.NewTicker(10 * time.Second)
+	ticker := time.NewTicker(20 * time.Second)
 	defer ticker.Stop()
 
 	for range ticker.C {
