@@ -7,7 +7,7 @@ services:
       context: ./
       dockerfile: Dockerfile
     ports:
-      - 9091:9091
+      - ${PORT}:${PORT}
     networks:
       - app_network
     env_file:
